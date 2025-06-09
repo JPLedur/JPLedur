@@ -33,10 +33,10 @@
 <h2 align="center">Statistics</h2>
 <br>
 <div align=center>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JPLedur&theme=dracula" alt="GitHub Streak" /></a>
-  <img src="https://github-readme-stats.vercel.app/api?username=JPLedur&show_icons=true&theme=dracula&rank_icon=default&border_radius=4.5" alt="readme stats" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JPLedur&theme=dracula&border_radius=10" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=JPLedur&show_icons=true&theme=dracula&rank_icon=default&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPLedur&langs_count=8&layout=compact&theme=dracula&border_radius=4.5&size_weight=0.5&count_weight=0.5" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPLedur&langs_count=8&layout=compact&theme=dracula&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
 </div>
 
 <br/><br/>
